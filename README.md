@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Đức</h1>
-<h3 align="left">🌱 I’m currently learning AI/NLP/CV</h3>
+<h3 align="left">I’m currently learning AI/NLP/CV</h3>
 <p align="left"></p>
 
 <h2 align="left">Languages and Tools:</h2>

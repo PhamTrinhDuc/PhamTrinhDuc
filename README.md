@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Đức</h1>
 - 🌱 I’m currently learning AI/NLP/CV
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 

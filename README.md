@@ -8,3 +8,11 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PhamTrinhDuc&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhamTrinhDuc&layout=compact)
+
+---
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+
+---
